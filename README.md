@@ -1,4 +1,4 @@
-#Attemp at making a code snippet generator in golang
+# Attemp at making a code snippet generator in golang
 ###Currently only supports python
 
 ## Installation
@@ -8,4 +8,4 @@
     cd code-snippet-generator
     go run main.go <YOUR FILES GO HERE>
 
-####DISCLAIMER! Currently only supports python
+#### DISCLAIMER! Currently only supports python
