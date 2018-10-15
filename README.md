@@ -1,5 +1,4 @@
 # Attemp at making a code snippet generator in golang
-###Currently only supports python
 
 ## Installation
     cd $GOPATH
